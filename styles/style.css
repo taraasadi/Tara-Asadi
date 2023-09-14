@@ -150,9 +150,9 @@ svg {
 
 h1 {
   font-size: 2rem;
-  font-family: var(--heading-typeface);
+  font-family: Silkscreen(--heading-typeface);
   margin-bottom: 1rem;
-  color: var(--h1-color);
+  color: Silkscreen(--h1-color);
 }
 
 h2 {
