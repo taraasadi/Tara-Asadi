@@ -202,6 +202,7 @@ em {
 }
 
 .hero-headline {
+  font-family: 'Silkscreen', cursive;
   color: var(--overlay-color);
 }
 
